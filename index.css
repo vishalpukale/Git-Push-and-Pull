@@ -2,7 +2,7 @@
 {
     color: aqua;
     background-color: blue;
-    display: flex;
+    display: grid;
     flex-direction: column;
     width: 50%;
     height: 50vh;
